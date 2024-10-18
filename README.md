@@ -22,6 +22,7 @@ This Power BI project provides a comprehensive analysis of domestic overnight st
    - Rename query for easy readability
    - Remove irrelevant columns
    - Remove duplicates
+   - Creating custom column to add Shopping - Personal and Shopping - Business
    - Handle missing values
    - Apply filters for the required date range
    - Merge/append datasets if necessary (e.g., combining survey data with regional statistics OR combining 2019 and 2020 survey data)

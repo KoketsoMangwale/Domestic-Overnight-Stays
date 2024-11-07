@@ -17,7 +17,8 @@ This Power BI project provides a comprehensive analysis of domestic overnight st
 
 ### Steps to Import Data
 1. **Load Data Sources**: Open Power BI Desktop and go to `Home > Get Data` to import the datasets listed above.
-2. **Data Transformation**: Use `Power Query Editor` to clean and transform the data:
+2. **Data Profiling**:
+3. **Data Transformation**: Use `Power Query Editor` to clean and transform the data:
    - Rename column names to improve tidiness
    - Rename query for easy readability
    - Remove irrelevant columns
@@ -25,7 +26,7 @@ This Power BI project provides a comprehensive analysis of domestic overnight st
    - Creating custom column to add Shopping - Personal and Shopping - Business
    - Handle missing values
    - Apply filters for the required date range
-   - Merge/append datasets if necessary (e.g., combining survey data with regional statistics OR combining 2019 and 2020 survey data)
+   - Append datasets if necessary (e.g., combining survey data with regional statistics OR combining 2019 and 2020 survey data)
 
 ### Building the Data Model
 1. **Relationships**: Establish relationships between the tables by linking common keys, such as `RegionID` or `Date`.

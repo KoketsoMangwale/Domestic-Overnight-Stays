@@ -27,6 +27,8 @@ This Power BI project provides a comprehensive analysis of domestic overnight st
    - Handle missing values
    - Apply filters for the required date range
    - Append datasets if necessary (e.g., combining survey data with regional statistics OR combining 2019 and 2020 survey data)
+   - Split column by number of characters e.g. extract Year from Survey dste '1012020'
+   - Create new table, i.e. date table
 
 ### Building the Data Model
 1. **Relationships**: Establish relationships between the tables by linking common keys, such as `RegionID` or `Date`.

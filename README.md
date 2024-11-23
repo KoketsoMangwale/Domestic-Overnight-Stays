@@ -24,10 +24,11 @@ This Power BI project provides a comprehensive analysis of domestic overnight st
    - Remove irrelevant columns
    - Remove duplicates
    - Creating custom column to add Shopping - Personal and Shopping - Business
+   - Creating custom column to add formatted date
    - Handle missing values
    - Apply filters for the required date range
    - Append datasets if necessary (e.g., combining survey data with regional statistics OR combining 2019 and 2020 survey data)
-   - Split column by number of characters e.g. extract Year from Survey dste '1012020'
+   - Split column by number of characters e.g. extract Year from Survey date '1012020'
    - Create new table, i.e. date table
 
 ### Building the Data Model

@@ -30,6 +30,9 @@ This Power BI project provides a comprehensive analysis of domestic overnight st
    - Append datasets if necessary (e.g., combining survey data with regional statistics OR combining 2019 and 2020 survey data)
    - Split column by number of characters e.g. extract Year from Survey date '1012020'
    - Create new table, i.e. date table
+   - Create new table, Region/Province
+   - Create new table, District
+   - Model the relationship with the new table
 
 ### Building the Data Model
 1. **Relationships**: Establish relationships between the tables by linking common keys, such as `RegionID` or `Date`.

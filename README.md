@@ -25,6 +25,11 @@ This Power BI project provides a comprehensive analysis of domestic overnight st
    - Remove duplicates
    - Creating custom column to add Shopping - Personal and Shopping - Business
    - Creating custom column to add formatted date
+   - Through DAX create calculated columns to standardise categorical data
+     - Gender
+     - Province
+     - District
+     - Education
    - Handle missing values
    - Apply filters for the required date range
    - Append datasets if necessary (e.g., combining survey data with regional statistics OR combining 2019 and 2020 survey data)
